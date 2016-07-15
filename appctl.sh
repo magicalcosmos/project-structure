@@ -34,3 +34,10 @@ stop() {
 		echo "server stopped !"
 	fi
 }
+
+##############################
+#####	how to use	  ########
+#####./appctl.sh start########
+#####./appctl.sh stop#########
+#####./appctl.sh restart######
+##############################
